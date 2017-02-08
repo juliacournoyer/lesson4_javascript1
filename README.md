@@ -13,8 +13,7 @@ Julia Cournoyer
 The assignment teaches the importance of variables, creating equations for calculations, and conversions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://juliacournoyer.github.io/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. Declaring and initializing variables
