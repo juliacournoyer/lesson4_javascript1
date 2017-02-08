@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 7, 2017
 
 ### Student Name:  
-(First and Last Name)
+Julia Cournoyer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment teaches the importance of variables, creating equations for calculations, and conversions.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Declaring and initializing variables
+2. Importance of case sensitivity
+3. Using object methods
